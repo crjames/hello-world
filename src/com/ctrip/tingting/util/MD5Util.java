@@ -37,4 +37,5 @@ public class MD5Util {
 
         return sb.toString();
     }
+	public static void test(){}
 }
